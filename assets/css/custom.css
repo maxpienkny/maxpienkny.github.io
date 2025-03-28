@@ -1,0 +1,9 @@
+a.no-underline {
+    text-decoration: none;
+  }
+
+  a.no-underline:hover {
+    text-decoration: underline;
+    color: #1a73e8;
+  }
+  
