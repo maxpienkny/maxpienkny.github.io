@@ -13,4 +13,3 @@ author_profile: false
 I was a teaching assistant for undergraduate health economics, taught by [Molly Schnell](https://mollyschnell.com/).
 
 My teaching evaluations are available <a href="/files/teaching/pienkny_teaching_evals.pdf"><button class="dropbtn">here</button></a>
-  </div>) </li>
