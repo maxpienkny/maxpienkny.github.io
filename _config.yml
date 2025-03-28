@@ -81,40 +81,40 @@ analytics:
 # Site Author
 author:
   name             : # "Max Pienkny"
-  avatar           : # "profile.png"
+  # avatar           : # "profile.png"
   bio              : # "Economics PhD Student at Northwestern University"
   location         : # "Chicago, IL"
-  employer         :
-  pubmed           : 
-  googlescholar    : 
-  email            :
-  researchgate     :  
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : 
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : 
-  lastfm           :
-  linkedin         :
-  orcid            : 
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : 
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  #employer         :
+  #pubmed           : 
+  #googlescholar    : 
+  #email            :
+  #researchgate     :  
+  #uri              :
+  #bitbucket        :
+  #codepen          :
+  #dribbble         :
+  #flickr           :
+  #facebook         :
+  #foursquare       :
+  #github           : 
+  #google_plus      :
+  #keybase          :
+  #instagram        :
+  #impactstory      : 
+  #lastfm           :
+  #linkedin         :
+  #orcid            : 
+  #pinterest        :
+  #soundcloud       :
+  #stackoverflow    : 
+  #steam            :
+  #tumblr           :
+  #twitter          : 
+  #vine             :
+  #weibo            :
+  #xing             :
+  #youtube          :
+  #wikipedia        :
 
 
 # Reading Files
