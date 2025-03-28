@@ -8,14 +8,13 @@ author_profile: false
 
 # Working Papers
 
-XX
+
 
 <hr style="margin: 2em 0; border: none; border-top: 1px solid #ccc;">
 
 
 # Works in Progress
 
-XX
 
 <hr style="margin: 2em 0; border: none; border-top: 1px solid #ccc;">
 
