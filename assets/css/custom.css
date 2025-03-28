@@ -6,4 +6,9 @@ a.no-underline {
     text-decoration: underline;
     color: #1a73e8;
   }
+
+  a.light-gray-link {
+    color: #777777;          /* light gray */
+    text-decoration: none;   /* remove underline */å
+  }
   
