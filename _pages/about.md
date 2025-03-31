@@ -10,6 +10,7 @@ redirect_from:
 
 <style>
   /* Adjust page width */
+  /*
 .page,
 .page__inner-wrap,
 .page__content,
@@ -21,12 +22,14 @@ redirect_from:
   padding-right: 2rem;
   margin: 0 auto;
 }
-
+*/
 /* Widen overall content */
+/*
 body {
   max-width: 100% !important;
   width: 100% !important;
 }
+*/
 </style>
 
 ## Max Pienkny<img class="img-responsive" style="float: left; margin: 0px 40px 20px 0px;" src="files/pienkny_headshot.jpeg" width="475">
