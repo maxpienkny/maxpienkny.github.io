@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 <style>
-  /* Adjust page width */
-  /*
+/* Default: wide desktop layout */
 .page,
 .page__inner-wrap,
 .page__content,
@@ -22,14 +21,31 @@ redirect_from:
   padding-right: 2rem;
   margin: 0 auto;
 }
-*/
-/* Widen overall content */
-/*
+
 body {
   max-width: 100% !important;
   width: 100% !important;
 }
-*/
+
+/* Restrict width on small screens */
+@media (max-width: 768px) {
+  .page,
+  .page__inner-wrap,
+  .page__content {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  body {
+    padding: 0;
+    margin: 0;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+}
 </style>
 
 ## Max Pienkny<img class="img-responsive" style="float: left; margin: 0px 40px 20px 0px;" src="files/pienkny_headshot.jpeg" width="475">
