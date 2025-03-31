@@ -52,7 +52,7 @@ body {
 
 I am a 4th-year PhD candidate in Economics at Northwestern. I use tools from applied microeconomics and industrial organization to study topics in health, culture, and politics. 
 
-My CV is [here](/files/cv/pienkny_cv.pdf).
+My CV is <a href="/files/cv/pienkny_cv.pdf" class="no-underline">here</a>.
 
 My email address is <a href="mailto:mpienkny@u.northwestern.edu">mpienkny@u.northwestern.edu</a>.
 
