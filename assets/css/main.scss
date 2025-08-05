@@ -1,12 +1,10 @@
 ---
 ---
 
-/*
- * This file controls what is imported from /_sass
- *
- * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
- */
+// ======================================================================
+//  Imports
+//  (Processed in this order so dependency chains remain intact.)
+// ======================================================================
 
 @import
     "vendor/breakpoint/breakpoint",
@@ -42,3 +40,59 @@
     "vendor/magnific-popup/magnific-popup"
 ;
 
+// ======================================================================
+//  Abstract-toggle styling
+// ======================================================================
+
+/* -----------------------------------------------------------
+   Base look of the “+ Abstract” / “– Abstract” line
+   ----------------------------------------------------------- */
+details summary {
+  background-color: transparent !important; /* wipe any theme hover bg */
+  font-weight: normal;                      /* no bold */
+  color: #666;                              /* dark-ish grey */
+  text-decoration: none;
+  cursor: pointer;
+
+  list-style: none;                         /* hide default ▼/► marker */
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  margin-left: 1rem;                        /* indent to align with body */
+}
+
+/* Replace browser ▼/► with ＋ / − */
+details summary::-webkit-details-marker { display: none; }
+details summary::before       { content: "＋ "; font-weight: 600; }
+details[open] summary::before { content: "− "; }
+
+/* -----------------------------------------------------------
+   Hover / focus state – darker text, no background flip
+   ----------------------------------------------------------- */
+details summary:hover,
+details summary:focus {
+  background-color: transparent !important; /* keep it transparent */
+  color: #2f2f2f;                           /* slightly darker grey */
+}
+
+/* -----------------------------------------------------------
+   Vertical rhythm around abstracts
+   ----------------------------------------------------------- */
+
+/* Gap between the paper title and the + Abstract line,
+   and between one paper block and the next. */
+details {
+  margin-top: 0.25rem;  /* ≈ 4 px below the title */
+  margin-bottom: 2rem;  /* ≈ 32 px before next paper */
+}
+
+/* Extra breathing room ONLY when open (text appears). */
+details[open] summary {
+  margin-bottom: 0.75rem;   /* ≈ 12 px under the toggle */
+}
+
+/* If the first element inside <details> is <p>, neutralise its top margin
+   so the open state has precisely one vertical gap (defined above). */
+details[open] summary + * {
+  margin-top: 0;
+}
