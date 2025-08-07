@@ -69,7 +69,7 @@ My email address is <a href="mailto:mpienkny@u.northwestern.edu">mpienkny@u.nort
   <summary>Abstract</summary>
 
   <p>
-  I study how the deregulation of radio content in the U.S. transformed local politics and public health outcomes. The 1987 repeal of the FCC’s Fairness Doctrine removed requirements for broadcasters to air contrasting viewpoints on political issues and triggered the expansion of conservative talk radio. I find that quasi-exogenous exposure to growth in conservative talk radio raised Republican vote shares across presidential, Senate, and House elections, and also increased “deaths of despair” (alcohol-, overdose\nobreakseq{-,} and suicide-related mortality). These effects emerge in the early 1990s and persist decades later, underscoring how partisan media ecosystems can reshape both politics and public health.
+  I study how the deregulation of radio content in the U.S. transformed local politics and public health outcomes. The 1987 repeal of the FCC’s Fairness Doctrine removed requirements for broadcasters to air contrasting viewpoints on political issues and triggered the expansion of conservative talk radio. I find that quasi-exogenous exposure to growth in conservative talk radio raised Republican vote shares across presidential, Senate, and House elections, and also increased “deaths of despair” (alcohol-, overdose- and suicide-related mortality). These effects emerge in the early 1990s and persist decades later, underscoring how partisan media ecosystems can reshape both politics and public health.
   </p>
 </details>
 
