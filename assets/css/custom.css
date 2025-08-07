@@ -11,3 +11,24 @@ a.no-underline {
     color: #777777;          /* light gray */
     text-decoration: none;   /* remove underline */
   }
+
+
+
+/* Minimal bracketed research links */
+.links-min a.bracket {
+  text-decoration: none;
+  font-weight: 600;          /* adjust to 500 if you want lighter */
+  color: inherit;            /* use your page’s link color; or set a hex */
+}
+.links-min a.bracket::before { content: "["; }
+.links-min a.bracket::after  { content: "]"; }
+a.slides-btn,
+a.slides-btn:hover,
+a.slides-btn:focus {
+  text-decoration: none !important;
+  border-bottom: 0 !important;
+  box-shadow: none !important;
+}
+
+/* Middot separator */
+.links-min .dot { margin: 0 .35rem; }

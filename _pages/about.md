@@ -79,6 +79,14 @@ My email address is <a href="mailto:mpienkny@u.northwestern.edu">mpienkny@u.nort
 
 **Churches and Local Economies**<br>
 with <a href="https://zkashner.github.io/" class="no-underline">Zane Kashner</a> <br> 
+<a href="/files/research/slides/religion/religion_slides_08_06_2025.pdf"
+   class="slides-btn"
+   target="_blank"
+   rel="noopener"
+   aria-label="Slides for Churches and Local Economies">
+  [Slides]
+</a>
+
 
 <details>
   <summary>Abstract</summary>
