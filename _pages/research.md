@@ -56,7 +56,7 @@ with <a href="https://claireboone.github.io/" class="no-underline">Claire Boone<
   </p>
 </details>
 
-**Making an Echo Chamber: Persuasion and Selection in Ideological Segregation Online**<br>
+**Making an Echo Chamber: Selection and Persuasion in Ideological Segregation Online**<br>
 
 **When Protection Kills: Footprint-Based Regulation, Vehicle Upsizing, and U.S. Motor-Vehicle Fatalities**<br>
 
