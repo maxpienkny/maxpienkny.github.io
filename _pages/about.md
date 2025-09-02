@@ -97,7 +97,7 @@ with <a href="https://zkashner.github.io/" class="no-underline">Zane Kashner</a>
 </details>
 
 **Understanding the Short- and Long-Term Impacts of School-Based Health Centers**<br>
-with <a href="https://www.marikacabral.com/" class="no-underline">Mayrika Cabral</a>, <a href="https://sites.google.com/view/bokyungkim" class="no-underline">Bokyung Kim</a>, <a href="https://www.adriennesabety.com/" class="no-underline">Adrienne Sabety</a>, <a href="https://web.stanford.edu/~mrossin/" class="no-underline">Maya Rossin-Slater</a>, <a href="https://mollyschnell.com/" class="no-underline">Molly Schnell </a> & <a href="https://hschwandt.com/" class="no-underline">Hannes Schwandt</a> <br> 
+with <a href="https://www.marikacabral.com/" class="no-underline">Marika Cabral</a>, <a href="https://sites.google.com/view/bokyungkim" class="no-underline">Bokyung Kim</a>, <a href="https://www.adriennesabety.com/" class="no-underline">Adrienne Sabety</a>, <a href="https://web.stanford.edu/~mrossin/" class="no-underline">Maya Rossin-Slater</a>, <a href="https://mollyschnell.com/" class="no-underline">Molly Schnell </a> & <a href="https://hschwandt.com/" class="no-underline">Hannes Schwandt</a> <br> 
 
 <details>
   <summary>Abstract</summary>
