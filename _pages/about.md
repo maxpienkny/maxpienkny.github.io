@@ -50,7 +50,7 @@ body {
 
 ## Max Pienkny<img class="img-responsive" style="float: left; margin: 0px 40px 20px 0px;" src="files/pienkny_headshot.jpeg" width="475">
 
-I am a 4th-year PhD candidate in Economics at Northwestern. I use tools from applied microeconomics and industrial organization to study topics in health, culture, and politics. 
+I am a 5th-year PhD candidate in Economics at Northwestern. I use tools from applied microeconomics and industrial organization to study topics in health, culture, and politics. 
 
 My CV is <a href="/files/cv/pienkny_cv.pdf" class="no-underline">here</a>.
 
@@ -63,7 +63,7 @@ My email address is <a href="mailto:mpienkny@u.northwestern.edu">mpienkny@u.nort
 
 # Working Papers
 
-<a href="/files/research/working_papers/pienkny_talk_radio.pdf" class="no-underline">**From the Dial to the Aisle: The Effects of Talk Radio**<a> <br>
+<a href="/files/research/working_papers/pienkny_talk_radio.pdf" class="no-underline"><strong>From the Dial to the Aisle: The Effects of Talk Radio</strong></a><br>
 
 <details>
   <summary>Abstract</summary>
@@ -73,28 +73,27 @@ My email address is <a href="mailto:mpienkny@u.northwestern.edu">mpienkny@u.nort
   </p>
 </details>
 
-<hr style="margin: 2em 0; border: none; border-top: 1px solid #ccc;">
-
-# Works in Progress
-
-**Churches and Local Economies**<br>
-with <a href="https://zkashner.github.io/" class="no-underline">Zane Kashner</a> <br> 
+<a href="/files/research/working_papers/pienkny_kashner_churches.pdf" class="no-underline">
+  <strong>Churches and Local Economies</strong>
+</a><br>
+with <a href="https://zkashner.github.io/" class="no-underline">Zane Kashner</a><br>
 <a href="/files/research/slides/religion/religion_slides_08_06_2025.pdf"
    class="slides-btn"
    target="_blank"
    rel="noopener"
-   aria-label="Slides for Churches and Local Economies">
-  [Slides]
-</a>
-
+   aria-label="Slides for Churches and Local Economies">[Slides]</a>
 
 <details>
   <summary>Abstract</summary>
 
   <p>
-    How important are churches to local economic outcomes? Exploiting two plausibly exogenous shocks to church access and attendance, we study the causal effect of churches on a variety of economic and social outcomes. Using data from the Southern Baptist Convention (SBC), we study: (1) unexpected pastor deaths, which precipitate church closures, and (2) SBC pastor convictions for sex crimes, which also alter local congregations and attendance. Across multiple data sources, we find that churches exert large positive effects on economic activity and wellbeing, and that these effects are partly due to the church's role in facilitating social connectedness. 
+    Do local churches shape economic life? We study this question in the Southern Baptist Convention (SBC), the nation’s largest Protestant denomination, exploiting two shocks to congregational life: pastor deaths and pastor convictions for sexual abuse. We show that deaths translate nearly one-for-one into church closures and convictions cause large, lasting declines in Baptist attendance. These disruptions affect local economies, with labor-force participation falling, unemployment rising and nearby home prices declining for several years following both shocks. They also lead to changes in political and health behaviors, counties exposed to a conviction shift left in two-party vote share and experience higher opioid mortality. Taken together, the results document sizable local consequences of shocks to congregational life for economic, political, and health outcomes, underscoring the importance of churches as a determinant of place-based social capital.
   </p>
 </details>
+
+<hr style="margin: 2em 0; border: none; border-top: 1px solid #ccc;">
+
+# Works in Progress
 
 **Understanding the Short- and Long-Term Impacts of School-Based Health Centers**<br>
 with <a href="https://www.marikacabral.com/" class="no-underline">Marika Cabral</a>, <a href="https://sites.google.com/view/bokyungkim" class="no-underline">Bokyung Kim</a>, <a href="https://www.adriennesabety.com/" class="no-underline">Adrienne Sabety</a>, <a href="https://web.stanford.edu/~mrossin/" class="no-underline">Maya Rossin-Slater</a>, <a href="https://mollyschnell.com/" class="no-underline">Molly Schnell </a> & <a href="https://hschwandt.com/" class="no-underline">Hannes Schwandt</a> <br> 
