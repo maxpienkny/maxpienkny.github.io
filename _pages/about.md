@@ -34,7 +34,7 @@ img {
 
 .profile-photo {
   float: left;
-  width: 375px;
+  width: 250px;
   margin: 0 40px 20px 0;
 }
 
@@ -98,7 +98,7 @@ img {
     float: none;
     display: block;
     width: 100%;
-    max-width: 375px;
+    max-width: 250px;
     margin: 0 auto 1.5rem;
   }
 
@@ -112,7 +112,7 @@ img {
 
 <img
   class="img-responsive profile-photo"
-  src="/files/pienkny_headshot.jpeg"
+  src="/files/pienkny_headshot.JPG"
   alt="Portrait of Max Pienkny">
 
 I am a Ph.D. candidate in Economics at Northwestern University and am on the 2026–27 academic job market. I work in applied microeconomics and industrial organization. My research studies how policy design and institutions shape economic behavior and welfare, often generating important health consequences in settings far outside the health-care sector.
