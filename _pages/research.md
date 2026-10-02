@@ -174,7 +174,7 @@ author_profile: false
   </div>
 
   <div class="paper-meta">
-    <strong>Presentations:</strong> AEA Annual Meeting (ASSA), 2026
+    <strong>Presentations:</strong> AEA Annual Meeting (2026)
   </div>
 
   <details>
