@@ -189,7 +189,7 @@ author_profile: false
 <div class="paper-entry">
 
   <div class="paper-title">
-    Learning-by-Doing versus Training-Cohort in Medical Decision-Making
+    Learning-by-Doing versus Training-Cohort Effects in Medical Decision-Making
   </div>
 
   <div class="paper-authors">
@@ -211,7 +211,7 @@ author_profile: false
 <div class="paper-entry">
 
   <div class="paper-title">
-     Making an Echo Chamber: Selection and Persuasion Online Communities
+     Making an Echo Chamber: Selection and Persuasion in Online Communities
   </div>
 
   <details>

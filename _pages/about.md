@@ -240,7 +240,7 @@ My email address is <a href="mailto:mpienkny@u.northwestern.edu">mpienkny@u.nort
 <div class="paper-entry">
 
   <div class="paper-title">
-    Learning-by-Doing versus Training-Cohort in Medical Decision-Making
+    Learning-by-Doing versus Training-Cohort Effects in Medical Decision-Making
   </div>
 
   <div class="paper-authors">
@@ -262,7 +262,7 @@ My email address is <a href="mailto:mpienkny@u.northwestern.edu">mpienkny@u.nort
 <div class="paper-entry">
 
   <div class="paper-title">
-    Making an Echo Chamber: Selection and Persuasion Online Communities
+    Making an Echo Chamber: Selection and Persuasion in Online Communities
   </div>
 
   <details>
