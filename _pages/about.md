@@ -262,15 +262,8 @@ My email address is <a href="mailto:mpienkny@u.northwestern.edu">mpienkny@u.nort
 <div class="paper-entry">
 
   <div class="paper-title">
-    Making an Echo Chamber: Selection and Persuasion in Online Communities
+    Political Slant in Online Communities: Participation and Persistence
   </div>
-
-  <details>
-    <summary>Abstract</summary>
-    <p>
-      This project studies how sorting across online communities and changes in individual speech contribute to online polarization. Using the universe of comments and posts made on the social media platform Reddit, I track users across communities and examine how their language evolves before and after they begin or end participation, including their speech in other communities. The goal is to distinguish changes in community composition from changes in the behavior of existing participants.
-    </p>
-  </details>
 
 </div>
 
