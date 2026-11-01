@@ -130,7 +130,7 @@ My email address is <a href="mailto:mpienkny@u.northwestern.edu">mpienkny@u.nort
 <div class="paper-entry">
 
   <div class="paper-title">
-    The Safety Cost of Attribute-Based Environmental Regulation: Evidence from Fuel-Economy Standards
+    <a href="https://drive.google.com/file/d/1LBqsXqOlBCR4Phqn4vAaDLgZz_KP3tCh/view" class="no-underline">The Safety Cost of Attribute-Based Environmental Regulation: Evidence from Fuel-Economy Standards</a>
   </div>
 
   <div class="paper-meta">
