@@ -115,7 +115,7 @@ img {
   src="/files/pienkny_headshot.JPG"
   alt="Portrait of Max Pienkny">
 
-I am a Ph.D. candidate in Economics at Northwestern University and am on the 2026–27 academic job market. I work in public economics, health economics, and industrial organization. My research studies how policy design and institutions shape economic behavior and welfare, often generating important health consequences in settings far outside the health-care sector.
+I am a Ph.D. candidate in Economics at Northwestern University and am on the 2026–27 academic job market. I work in public economics, health economics, environmental economics, and industrial organization. My research studies how policy design and institutions shape economic behavior and welfare, often generating important health consequences in settings far outside the health-care sector.
 
 My CV is <a href="/files/cv/pienkny_cv.pdf" class="no-underline">here</a>.
 
